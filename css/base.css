@@ -1,0 +1,23 @@
+body
+{
+	font-family: sans-serif;
+}
+td
+{
+	padding: 5px;
+}
+.Hidden
+{
+	display: none;
+}
+textarea
+{
+	display: block;
+	width: 300px;
+	height: 200px;
+	margin: 5px;
+}
+input
+{
+	margin: 5px;
+}

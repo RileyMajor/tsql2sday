@@ -1,0 +1,2 @@
+MakeHTMLTableFromArray(TSQLTuesdayData.TSQLTuesday[0].Parties, document.getElementById("Parties"), true, htmlEncode);
+MakeHTMLTableFromArray(TSQLTuesdayData.TSQLTuesday[0].Authors, document.getElementById("Authors"), true, htmlEncode);
